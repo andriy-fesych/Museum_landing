@@ -1,7 +1,9 @@
-This is an example of a simple landing page for Museum I build in 2022.
-It`s purpose is to promote Museum events, exhibitions, allow visitors to contact Museum, and follow their feed.
+This is an example of a simple landing page for Museum I build in 2022.<br/>
+It`s purpose is to promote Museum events, exhibitions, allow visitors to contact Museum, and follow their feed.<br/>
 
-[Live preview (DEMO LINK)](https://andriy-fesych.github.io/Museum_landing/)
+[Live preview (DEMO LINK)](https://andriy-fesych.github.io/Museum_landing/)<br/>
+
+[Design reference (Figma template)](https://www.figma.com/design/WCfm0XBawAmFNn7rZ8YS3o/%D0%9D%D0%90%D0%9C%D0%A3?node-id=0-1&p=f&t=AZZyLUFcTXNmBn6b-0)<br/>
 
 📌 Key technologies and frameworks used in the project:<br/>
 ⭐ HTML<br/>
